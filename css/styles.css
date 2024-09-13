@@ -107,11 +107,6 @@ img {
 }
 
 
-.cont {
-display: flex;
-}
-
-
 .contacts {
     display: flex;
     column-gap: 40px;
@@ -166,7 +161,7 @@ display: flex;
         min-width: 169px;
         height: 56px; 
         border: none;
-        display: flex;
+        display: block;
         border-radius: 4px;
         margin-left: auto;
         margin-right: auto;
