@@ -104,13 +104,13 @@ img {
 
 .address {
     font-style: normal;
-    display: flex;
-        column-gap: 40px;
 }
 
 
 .contacts {
     margin-left: 166px;
+    display: flex;
+    column-gap: 40px;
 }
 
 .contacts a {
