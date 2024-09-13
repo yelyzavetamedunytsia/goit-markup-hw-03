@@ -77,7 +77,7 @@ img {
     padding-top: 24px;
     padding-bottom: 24px;
     gap: 40px;
-    margin-right: 166px;
+    margin-right: 332px;
 }
 
 .navigation a {
@@ -108,7 +108,7 @@ img {
 
 
 .contacts {
-    margin-left: 166px;
+    
     display: flex;
     column-gap: 40px;
 }
