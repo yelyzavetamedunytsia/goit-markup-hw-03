@@ -56,6 +56,7 @@ img {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin-right: 166px;
 }
 
 .logo {
@@ -82,7 +83,6 @@ img {
     padding-top: 24px;
     padding-bottom: 24px;
     gap: 40px;
-    margin-right: 332px;
 }
 
 .navigation a {
@@ -109,6 +109,7 @@ img {
 
 .address {
     font-style: normal;
+    margin-left: 166px;
 }
 
 
@@ -204,7 +205,6 @@ img {
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2E2F42;
-    padding-top: 32px;
     margin-bottom: 8px
 }
 
@@ -358,7 +358,6 @@ margin-bottom: 72px;
 
 .footer {
     background-color: #2E2F42;
-    height: 312px;
     padding-top: 100px;
     padding-bottom: 100px;
 
